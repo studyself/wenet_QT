@@ -1,4 +1,4 @@
-# WeNet
+# WeNet(copy from https://github.com/wenet-e2e/wenet, Just for test)
 
 [**中文版**](https://github.com/wenet-e2e/wenet/blob/main/README_CN.md)
 
